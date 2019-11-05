@@ -3,25 +3,25 @@ title: Newsletter Signup
 subtitle: Awake Integrates with Mailchimp for Easy Newsletter Management
 category:
   - Third Party Integrations
-author: Daniel Kelly
+author: Harry Denness
 date: 2019-08-01T03:49:49.295Z
-featureImage: /uploads/mailchimp.jpg
+featureImage: /uploads/cat.webp
 ---
 You're publishing great content! Make sure people can get it easily right in their inbox with Awake's ready to go Mailchimp integration. Follow these instructions to get your newsletter up and running
 
-## 1. Signup with Mailchimp
+## 1. Subscribe to my youtube
 
 If you don't already have a mailchimp account, head on over to [mailchimp.com](https://mailchimp.com) and sign up (don't worry they have free tiers that will give you all you probably need).
 
-## 2. Create a New Campaign
+## 2. HazzaPlayz 
 
-Go to "Campaigns" in the main navigation of the Mailchimp dashboard and then click the "Create Campaign" button on the top right.
+go to www.youtube.com/thehazzaplayz
 
-## 3. Start Signup Form
+## 3. And view every video
 
 From the modal overlay that appears choose "Signup Form", then click "Begin" under "Embedded Form"
 
-![Mailchimp create signup form](/uploads/screen-shot-2019-08-01-at-1.03.08-pm.png)
+![subscribe right now](/uploads/hqdefault.jpg)
 
 ## 4. Get Form Action
 
