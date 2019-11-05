@@ -18,12 +18,12 @@
             test
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>buy my ipad for £500</h3>
           <p>
             test
           </p>
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <h3>buy it</h3>
           <p>
             fuwahfiw
           </p>
